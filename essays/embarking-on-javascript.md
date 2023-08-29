@@ -6,7 +6,7 @@ title: "Embarking on My Journey with JavaScript"
 date: 2023-08-29
 published: true
 labels:
-  - Engineering
+  - Coding
 ---
 
 <img width="200px" class="rounded float-start pe-4" src="../img/embarking-on-javascript/javascript-logo.png">
