@@ -11,7 +11,7 @@ labels:
 
 <img width="200px" class="rounded float-start pe-4" src="../img/embarking-on-javascript/javascript-logo.png">
 
-As a person who just started its journey with JavaScript, I find the language to be a fascinating hybrid of Python and C++. The language's syntax, akin to Python's simplicity, is complemented by the incorporation of more advanced features reminiscent of C++. While I've dabbled in JavaScript for web development, my prior experiences were relatively straightforward—just a few lines of code to infuse interactivity into a webpage. The introductory modules on JavaScript from FreeCodeCamp have been incredibly enlightening, equipping me with a foundational understanding of the language.
+As a person who just started its journey with JavaScript, I find the language to be somewhat in between Python and C++ in terms of complexity. Let me explain what I mean by that: the language's syntax, akin to Python's simplicity, is complemented by the incorporation of more advanced features reminiscent of C++. While I've dabbled in JavaScript for web development, my prior experiences were relatively straightforward—just a few lines of code to infuse interactivity into a webpage. The introductory modules on JavaScript from FreeCodeCamp have been incredibly enlightening, equipping me with a foundational understanding of the language.
 
 Enthusiastic testimonials from software developers, often shared on platforms like YouTube, have piqued my interest in JavaScript. The fact that its demand is skyrocketing only reinforces my belief that mastering this programming language is a worthwhile endeavor. I'm eagerly poised to delve deeper into its intricacies and capabilities.
 
