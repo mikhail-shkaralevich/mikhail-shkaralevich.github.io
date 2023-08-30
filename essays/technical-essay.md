@@ -9,7 +9,7 @@ labels:
   - Software engineering
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/technical-essay/software.jpg">
+<img width="400px" class="rounded float-start pe-4" src="../img/technical-essay/software.jpg">
 
   After graduating from high school, I found myself standing at a crossroads, faced with numerous possibilities for my future educational journey. While I was certain about my desire to become an engineer, the specific field within engineering was a decision I needed to make. Thus began my journey of introspection and research. I meticulously outlined the qualities I wanted in my future career: the ability to innovate for societal benefit, a flexible work schedule, the opportunity to travel while working, continuous learning, and prospects for career advancement. These criteria gradually led me to a resounding choice: the captivating realm of software engineering.
   The elegance of software engineering lies in its accessibility – armed with nothing more than a computer, one can unlock a realm of boundless creativity and potential. This virtual world, unbounded by anything except imagination, is truly exciting. My previous ICS courses furnished me with a profound appreciation for developing efficient algorithms and mastering various data structures, including their optimal usage scenarios. Notably, my exploration of projects like Huffman coding, a lossless data compression algorithm, ignited my fascination for software engineering.
