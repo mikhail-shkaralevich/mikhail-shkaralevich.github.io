@@ -41,69 +41,86 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
-      "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "company": "Towill RM Corporation",
+      "position": "Intern",
+      "website": "https://rmtowill.com/",
+      "startDate": "2022-05-20",
+      "endDate": "2022-08-20",
+      "summary": "Intern in 3D scanning & civil engineering",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Performed 3D scanning using \"Leica RTC360\", registered scans in \"Cyclone 360\".",
+        "Created various designs in AutoCAD and Civil3D under supervision of licensed engineering professionals.",
+        "Reviewed and interpreted engineering blueprints and drawings to determine best approaches to projects.",
+        "Obtained knowledge of civil engineering techniques through training opportunities and industry documents publications",
+        "Performed construction reporting, file management and documentation."
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
+      "company": "Private fishing company",
+      "position": "Fisherman",
+      "startDate": "2021-06-21",
+      "endDate": "2021-07-21",
+      "summary": "Commercial fishing of red salmon in Dilingham, AK.",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
-      ]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
-      "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+        "Sold catches directly to local businesses to meet fresh market demands and maintained relationships with buyers and vendors to promote sustainable revenue channels.",
+        "Monitored optimal fishing locations to maximize catch results on each trip.",
+        "Participated in animal damage control, wildlife management.",
+        "Completed minor repairs and general maintenance and shipboard equipment to keep machinery operational (stored netting, cables, lines and ropes correctly to minimize wear and prevent damage).",
+        "Monitored fish, checking for defects and disease and promptly discarded deceased fish to prevent illness."
       ]
     },
     {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
+      "company": "Arcade Green Hawaii Building Supply",
+      "position": "Kitchen cabinets assembler",
+      "website": "https://www.arcadegreen.com/",
+      "startDate": "2020-06-20",
+      "endDate": "2020-08-20",
+      "summary": "Assembling kitchen cabinets",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "Assembled kitchen cabinets of various types replacing parts to meet regulatory code standards, wrapped them and prepared for shipping.",
+        "Worked closely with team members to deliver project requirements, develop solutions and meet deadlines.",
+        "Maintained clean, safe working environment by removing waste from job site prior to shift completion.",
+        "Read plans, instructions or specifications to determine work activities.",
+        "Logged inventory to track supply counts, organize equipment, and gather important materials."
       ]
-    }
+    },
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "title": "Charles R. Hemenway Scholarship",
+      "date": "2023-8-11-Present",
+      "awarder": "",
+      "summary": ""
     },
     {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "W. Wesley and Hiromi Peterson Student Support Endowment",
+      "date": "2023-8-11-Present",
+      "awarder": "",
+      "summary": ""
+    }
+    {
+      "title": "Outreach College Summer Sophmore Scholarship",
+      "date": "2023-5-20",
+      "awarder": "Outreach College at UH Manoa",
+      "summary": ""
+    }
+    {
+      "title": "Fred and Annie Chan Scholarship for Information and Computer Sciences",
+      "date": "2022-8-20",
+      "awarder": "Fred and Annie Chan",
+      "summary": ""
+    }
+    {
+      "title": "Outreach College Summer Success Scholarship",
+      "date": "2021-5-20",
+      "awarder": "Outreach College at UH Manoa",
+      "summary": ""
+    }
+    {
+      "title": "Manoa Next Steps to Future Scholarship",
+      "date": "2021-8-20",
+      "awarder": "UH Manoa",
+      "summary": ""
     }
   ],
   "references": [
