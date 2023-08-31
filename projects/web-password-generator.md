@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: img/password-generator/python_django.png
-title: "Cotton"
+title: "Password Generator"
 date: "2021"
 published: true
 labels:
