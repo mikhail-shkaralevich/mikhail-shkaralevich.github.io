@@ -20,7 +20,7 @@ summary: "Simple web password genarator app developed with Django"
 In the age of cyber threats, it's a good practice to have a strong unique password for each account. The idea behind this project was to automate password creation and make it easily accessible from all of the devices connected to my home network.
 
 ## Implementation process
-To make the password generator easily accessible from all my devices, I decided to make it as a web-application. I used Django for back end (which is definetely overkill) and HTML&CSS for front end. The code of the logic behind password generation:
+To make the password generator easily accessible from all my devices, I decided to make it as a web-application and host it on my home server. I used Django for back end (which is definetely overkill) and HTML&CSS for front end. The code of the logic behind password generation:
 <code>
 def password(request):
     characters = list('abcdefghijklmnopqrstuvwxyz')
