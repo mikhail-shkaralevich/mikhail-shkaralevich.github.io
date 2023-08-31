@@ -16,7 +16,8 @@
   "interests": [
     { "name": "Software Engineering" },
     { "name": "Cybersecurity" },
-    { "name": "Robotics" }
+    { "name": "Robotics" },
+    { "name": "Web Development" }
   ],
   "skills": [
     {
