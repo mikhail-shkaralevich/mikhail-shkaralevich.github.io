@@ -24,25 +24,25 @@ To make the password generator easily accessible from all my devices, I decided 
 
 <hr>
 <code>
-def password(request):
-    characters = list('abcdefghijklmnopqrstuvwxyz')
-
-    if request.GET.get('uppercase'):
-        characters.extend(list('ABCDEFGHIJKLMNOPQRSTUVWXYZ'))
-
-    if request.GET.get('special'):
-        characters.extend(list('!@#$%^&*'))
-
-    if request.GET.get('numbers'):
-        characters.extend(list('1234567890'))
-
-    length = request.GET.get('length', 12)
-
-    thepassword = ''
-    for x in range(int(length)):
-        thepassword += random.choice(characters)
-
-    return render(request, 'generator/password.html', {'password':thepassword})
+  def password(request):
+      characters = list('abcdefghijklmnopqrstuvwxyz')
+  
+      if request.GET.get('uppercase'):
+          characters.extend(list('ABCDEFGHIJKLMNOPQRSTUVWXYZ'))
+  
+      if request.GET.get('special'):
+          characters.extend(list('!@#$%^&*'))
+  
+      if request.GET.get('numbers'):
+          characters.extend(list('1234567890'))
+  
+      length = request.GET.get('length', 12)
+  
+      thepassword = ''
+      for x in range(int(length)):
+          thepassword += random.choice(characters)
+  
+      return render(request, 'generator/password.html', {'password':thepassword})
 </code>
 <hr>
 
