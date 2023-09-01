@@ -23,7 +23,7 @@ In the age of cyber threats, it's a good practice to have a strong unique passwo
 To make the password generator easily accessible from all my devices, I decided to make it a web-application and host it on my home server. I used Django for the back end (which is definitely overkill) and HTML and CSS for the front end. The code of the logic behind password generation:
 
 <hr>
-<code>
+<p>
   def password(request):
       characters = list('abcdefghijklmnopqrstuvwxyz')
   
@@ -43,7 +43,7 @@ To make the password generator easily accessible from all my devices, I decided 
           thepassword += random.choice(characters)
   
       return render(request, 'generator/password.html', {'password':thepassword})
-</code>
+</p>
 <hr>
 
 ## What I learnt
