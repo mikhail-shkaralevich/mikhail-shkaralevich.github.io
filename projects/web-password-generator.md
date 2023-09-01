@@ -24,6 +24,7 @@ To make the password generator easily accessible from all my devices, I decided 
 
 <hr>
 <code>
+  
       characters = list('abcdefghijklmnopqrstuvwxyz')
       if request.GET.get('uppercase'):
           characters.extend(list('ABCDEFGHIJKLMNOPQRSTUVWXYZ'))
@@ -41,6 +42,7 @@ To make the password generator easily accessible from all my devices, I decided 
           thepassword += random.choice(characters)
   
       return render(request, 'generator/password.html', {'password':thepassword})
+      
 </code>
 <hr>
 
