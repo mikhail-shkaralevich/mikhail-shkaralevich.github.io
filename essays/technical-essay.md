@@ -18,3 +18,4 @@ labels:
   What continually captivates me is the realization that at the core of computers lies the simple language of binary numbers. Yet, these seemingly basic sequences possess the power to manifest into sophisticated applications that hold great complexity. Thoughts about it fuel my enthusiasm for the field.
   
   While I've spent years comfortably crafting smaller programs, now I am looking forward to developing more ambitious projects, that will put my theoretical knowledge to real test. I thirst to acquire the skills to engineer and realize substantial software endeavours – projects that transcend simple functionality and become true software accomplishments. The concept of "open source" resonates deeply with me. I am drawn to the idea of contributing to collaborative projects that have a broader impact. I eagerly anticipate delving into the inner workings of open-source software and understanding the collaborative dynamics that drive its success.
+  
