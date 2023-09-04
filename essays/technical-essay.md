@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Technical Essay"
+title: "Software Engineering"
 # All dates must be YYYY-MM-DD format!
 date: 2023-08-30
 published: true
