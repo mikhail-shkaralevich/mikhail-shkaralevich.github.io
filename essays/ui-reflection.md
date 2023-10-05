@@ -10,7 +10,7 @@ labels:
   - Bootstrap
 ---
 
-<img width="400px" class="rounded float-start pe-4" src="../img/bootstrap.png">
+<img width="400px" class="rounded float-start pe-4" src="../img/ui-reflection/bootstrap.png">
 <p>
 	If you have a strong why- you have all the reasons to make it happen. Why use UI frameworks, such as Bootstrap? Well, the idea of frameworks flows directly from their names- they provide frames. Why do we want frames and not start from scratch? Having a frame makes our work much easier, all we need to do is to just start adding to it. Why do we want to simplify our work? Because, our most precious resource, time, is limited and we want to try to accomplish as much as we possibly can in it.
 </p>
