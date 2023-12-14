@@ -1,16 +1,17 @@
 ---
-layout: essay
-type: essay
+layout: project
+type: project
+image: img/cotton/cotton-square.png
 title: "CableTrackPRO"
-# All dates must be YYYY-MM-DD format!
 date: 2023-12-14
 published: true
 labels:
-  - Web-App
-  - Final Project ICS 314
+    - Web-App
+    - Final Project ICS 314
+  summary: "Final Project for ICS311"
 ---
 
-<img src="../img/cableProLogo.png" alt="cable track pro logo" style="margin-left:auto; margin-right:auto; width: 30vw;">
+<img src="..img/cabletrackpro/cableProLogo.png" alt="cable track pro logo" style="margin-left:auto; margin-right:auto; width: 30vw;">
 
 ## What is CableTrackPRO for?
 
