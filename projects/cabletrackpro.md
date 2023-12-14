@@ -11,7 +11,7 @@ labels:
 summary: "Final Project for ICS311."
 ---
 
-<img src="..img/cabletrackpro/cableProLogo.png" alt="cable track pro logo" style="margin-left:auto; margin-right:auto; width: 30vw;">
+<img src="../img/cabletrackpro/cableProLogo.png" alt="cable track pro logo" style="margin-left:auto; margin-right:auto; width: 30vw;">
 
 ## What is CableTrackPRO for?
 
