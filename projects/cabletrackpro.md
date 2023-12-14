@@ -6,9 +6,9 @@ title: "CableTrackPRO"
 date: 2023-12-14
 published: true
 labels:
-    - Web-App
-    - Final Project ICS 314
-  summary: "Final Project for ICS311"
+  - Web-App
+  - Final Project ICS 314
+summary: "Final Project for ICS311."
 ---
 
 <img src="..img/cabletrackpro/cableProLogo.png" alt="cable track pro logo" style="margin-left:auto; margin-right:auto; width: 30vw;">
