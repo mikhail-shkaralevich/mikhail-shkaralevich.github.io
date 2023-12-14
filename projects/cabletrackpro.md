@@ -47,4 +47,5 @@ First of all, I wanted to start learning JavaScript but never really had a stron
 
 #### Links
 Project's source code: <a href="https://github.com/ingeniouspartners/cabletrack.pro"><i class="large github icon "></i>CableTrackPro</a>
+
 Organization's web-page: <a href="https://ingeniouspartners.github.io/"><i class="large github icon "></i>Ingenious Partners</a>
